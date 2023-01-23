@@ -1,3 +1,5 @@
+// URL: public api
+
 function displayCountry(country) {
   const request = new XMLHttpRequest();
 
